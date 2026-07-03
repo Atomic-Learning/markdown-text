@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Markdown: Text",
+    "slug": "markdown-text",
+    "description": "A description of how to include normal text in Markdown files.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "markdown"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "markdown-introduction"
     ],
     "related": [
-        "",
-        ""
+        "markdown-inline-code"
     ]
 }
